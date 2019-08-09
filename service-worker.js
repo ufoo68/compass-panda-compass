@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/compass-panda-compass/precache-manifest.8e1fd04b742771913a15d0e74e22a65b.js"
+  "/compass-panda-compass/precache-manifest.37ce5bb6f3ee931d9b7f2cc1c9acbecf.js"
 );
 
 self.addEventListener('message', (event) => {
