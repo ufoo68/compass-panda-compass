@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/compass-panda-compass/static/css/main.34de6062.chunk.css",
-    "main.js": "/compass-panda-compass/static/js/main.3d94f2b4.chunk.js",
-    "main.js.map": "/compass-panda-compass/static/js/main.3d94f2b4.chunk.js.map",
+    "main.js": "/compass-panda-compass/static/js/main.cbbe1e2f.chunk.js",
+    "main.js.map": "/compass-panda-compass/static/js/main.cbbe1e2f.chunk.js.map",
     "runtime~main.js": "/compass-panda-compass/static/js/runtime~main.699eced5.js",
     "runtime~main.js.map": "/compass-panda-compass/static/js/runtime~main.699eced5.js.map",
     "static/js/2.ee0d05a0.chunk.js": "/compass-panda-compass/static/js/2.ee0d05a0.chunk.js",
     "static/js/2.ee0d05a0.chunk.js.map": "/compass-panda-compass/static/js/2.ee0d05a0.chunk.js.map",
     "index.html": "/compass-panda-compass/index.html",
-    "precache-manifest.bec5770f9cc4cda08be21e22235d0411.js": "/compass-panda-compass/precache-manifest.bec5770f9cc4cda08be21e22235d0411.js",
+    "precache-manifest.fc2bc82bebec47c846c41eb657194443.js": "/compass-panda-compass/precache-manifest.fc2bc82bebec47c846c41eb657194443.js",
     "service-worker.js": "/compass-panda-compass/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/compass-panda-compass/static/css/main.34de6062.chunk.css.map"
   }
