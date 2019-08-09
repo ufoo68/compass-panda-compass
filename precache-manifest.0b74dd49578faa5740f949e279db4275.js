@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1dfc30627fc724030511a075bb116138",
+    "revision": "9fc7dd5636d985cf00c01e0f39f6abd5",
     "url": "/compass-panda-compass/index.html"
   },
   {
-    "revision": "a30db8102ba83286ce9d",
+    "revision": "0532236a606527d9fa67",
     "url": "/compass-panda-compass/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/compass-panda-compass/static/js/2.0f2ef80c.chunk.js"
   },
   {
-    "revision": "a30db8102ba83286ce9d",
-    "url": "/compass-panda-compass/static/js/main.c6618b92.chunk.js"
+    "revision": "0532236a606527d9fa67",
+    "url": "/compass-panda-compass/static/js/main.044f23a5.chunk.js"
   },
   {
     "revision": "7fd1211fd545e9240595",
